@@ -1,0 +1,27 @@
+C:\Documents and Settings\Greg\Desktop\WDPlay_Voice\bin\Release\WDPlay_Voice.exe
+C:\Documents and Settings\Greg\Desktop\WDPlay_Voice\bin\Release\WDPlay_Voice.pdb
+C:\Documents and Settings\Greg\Desktop\WDPlay_Voice\bin\Release\WDPlay_Voice.xml
+C:\Documents and Settings\Greg\Desktop\WDPlay_Voice\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Greg\Desktop\WDPlay_Voice\obj\Release\ConsoleApplication1.Resources.resources
+C:\Documents and Settings\Greg\Desktop\WDPlay_Voice\obj\Release\WDPlay_Voice.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Greg\Desktop\WDPlay_Voice\obj\Release\WDPlay_Voice.exe
+C:\Documents and Settings\Greg\Desktop\WDPlay_Voice\obj\Release\WDPlay_Voice.xml
+C:\Documents and Settings\Greg\Desktop\WDPlay_Voice\obj\Release\WDPlay_Voice.pdb
+C:\SourceCode\WDPlay_Voice\obj\Release\WDPlay_Voice.exe
+C:\SourceCode\WDPlay_Voice\obj\Release\WDPlay_Voice.xml
+C:\SourceCode\WDPlay_Voice\obj\Release\WDPlay_Voice.pdb
+C:\SourceCode\WDPlay_Voice\obj\Release\ResolveAssemblyReference.cache
+C:\SourceCode\WDPlay_Voice\obj\Release\ConsoleApplication1.Resources.resources
+C:\SourceCode\WDPlay_Voice\obj\Release\WDPlay_Voice.vbproj.GenerateResource.Cache
+C:\SourceCode\WDPlay_Voice\bin\Release\WDPlay_Voice.exe
+C:\SourceCode\WDPlay_Voice\bin\Release\WDPlay_Voice.pdb
+C:\SourceCode\WDPlay_Voice\bin\Release\WDPlay_Voice.xml
+C:\Users\Greg\Documents\WDPlay_Voice 2\obj\Release\WDPlay_Voice.exe
+C:\Users\Greg\Documents\WDPlay_Voice 2\obj\Release\WDPlay_Voice.xml
+C:\Users\Greg\Documents\WDPlay_Voice 2\obj\Release\WDPlay_Voice.pdb
+C:\Users\Greg\Documents\WDPlay_Voice 2\bin\Release\WDPlay_Voice.exe
+C:\Users\Greg\Documents\WDPlay_Voice 2\bin\Release\WDPlay_Voice.pdb
+C:\Users\Greg\Documents\WDPlay_Voice 2\bin\Release\WDPlay_Voice.xml
+C:\Users\Greg\Documents\WDPlay_Voice 2\obj\Release\ConsoleApplication1.Resources.resources
+C:\Users\Greg\Documents\WDPlay_Voice 2\obj\Release\WDPlay_Voice.vbproj.GenerateResource.Cache
+C:\Users\Greg\Documents\WDPlay_Voice 2\bin\Release\WDPlay_Voice.exe.config

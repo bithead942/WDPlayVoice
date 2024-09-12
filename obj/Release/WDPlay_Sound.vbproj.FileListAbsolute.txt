@@ -1,0 +1,12 @@
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Release\ConsoleApplication1.Resources.resources
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Release\WDPlay_Sound.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\bin\Release\WDPlay_Sound.exe
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\bin\Release\WDPlay_Sound.pdb
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\bin\Release\WDPlay_Sound.xml
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Release\WDPlay_Sound.exe
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Release\WDPlay_Sound.xml
+C:\Documents and Settings\Greg\Desktop\WDPlay_Sound\obj\Release\WDPlay_Sound.pdb
+C:\Documents and Settings\Greg\Desktop\WDPlay_Voice\obj\Release\WDPlay_Sound.exe
+C:\Documents and Settings\Greg\Desktop\WDPlay_Voice\obj\Release\WDPlay_Sound.xml
+C:\Documents and Settings\Greg\Desktop\WDPlay_Voice\obj\Release\WDPlay_Sound.pdb
